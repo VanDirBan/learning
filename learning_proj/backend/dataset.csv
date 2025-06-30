@@ -1,4 +1,0 @@
-hostname,type,cores,ram,disk
-devops.vm.ah,vm,4,4,100
-airflow.vm.ah,vm,2,3,80
-ci03n.ah,hw,24,64,2000
